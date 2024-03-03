@@ -1,5 +1,5 @@
 
-Household Worker Connect App
+HandyConnect App
 
 Description:
 The Household Worker Connect App is a simple graphical user interface (GUI) application built using Tkinter in Python. It allows users to search for household workers based on their skills.
